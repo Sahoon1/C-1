@@ -1,0 +1,9 @@
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\bin\Debug\Stop Watch.exe.config
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\bin\Debug\Stop Watch.exe
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\bin\Debug\Stop Watch.pdb
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\obj\Debug\Stop Watch.csprojAssemblyReference.cache
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\obj\Debug\Stop_Watch.Form1.resources
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\obj\Debug\Stop_Watch.Properties.Resources.resources
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\obj\Debug\Stop Watch.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\obj\Debug\Stop Watch.exe
+C:\Users\Students\Desktop\Stop Watch\Stop Watch\obj\Debug\Stop Watch.pdb
