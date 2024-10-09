@@ -1,0 +1,10 @@
+C:\Users\Students\Desktop\login form\login form\obj\Debug\login form.csprojAssemblyReference.cache
+C:\Users\Students\Desktop\login form\login form\obj\Debug\login_form.Form1.resources
+C:\Users\Students\Desktop\login form\login form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\Students\Desktop\login form\login form\obj\Debug\login_form.Properties.SplashScreen.resources
+C:\Users\Students\Desktop\login form\login form\obj\Debug\login form.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\login form\login form\bin\Debug\login form.exe.config
+C:\Users\Students\Desktop\login form\login form\bin\Debug\login form.exe
+C:\Users\Students\Desktop\login form\login form\bin\Debug\login form.pdb
+C:\Users\Students\Desktop\login form\login form\obj\Debug\login form.exe
+C:\Users\Students\Desktop\login form\login form\obj\Debug\login form.pdb
