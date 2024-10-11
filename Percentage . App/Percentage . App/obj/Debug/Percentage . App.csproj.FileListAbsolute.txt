@@ -1,0 +1,9 @@
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\bin\Debug\Percentage.App.exe.config
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\bin\Debug\Percentage.App.exe
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\bin\Debug\Percentage.App.pdb
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\obj\Debug\Percentage . App.csprojAssemblyReference.cache
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\obj\Debug\Percentage.App.Form1.resources
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\obj\Debug\Percentage.App.Properties.Resources.resources
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\obj\Debug\Percentage . App.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\obj\Debug\Percentage.App.exe
+C:\Users\Students\Desktop\Percentage . App\Percentage . App\obj\Debug\Percentage.App.pdb
