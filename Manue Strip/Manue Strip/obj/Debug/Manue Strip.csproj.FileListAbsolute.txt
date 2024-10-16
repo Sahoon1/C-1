@@ -1,0 +1,11 @@
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\bin\Debug\Manue Strip.exe.config
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\bin\Debug\Manue Strip.exe
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\bin\Debug\Manue Strip.pdb
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\obj\Debug\Manue Strip.csprojAssemblyReference.cache
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\obj\Debug\Manue_Strip.Form1.resources
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\obj\Debug\Manue_Strip.Properties.Resources.resources
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\obj\Debug\Manue Strip.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\obj\Debug\Manue Strip.exe
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\obj\Debug\Manue Strip.pdb
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\obj\Debug\Manue_Strip.Login_Form.resources
+C:\Users\Students\Desktop\Manue Strip\Manue Strip\obj\Debug\Manue_Strip.Splash_Screen.resources
